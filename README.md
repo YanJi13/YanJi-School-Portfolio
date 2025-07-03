@@ -1,8 +1,7 @@
 # FlowSense
 
-![FlowSense Logo](https://github.com/user-attachments/assets/07525008-7cbb-49db-ae3b-217977d8e46c)
 <p align="center">
-  <img src="[your-image-url](https://github.com/user-attachments/assets/07525008-7cbb-49db-ae3b-217977d8e46c)" alt="Description" width="400"/>
+  <img src="https://github.com/YanJi13/YanJi-School-Portfolio/blob/main/FlowSense%20Logo.png" alt="Description" width="400"/>
 </p>
 
 
