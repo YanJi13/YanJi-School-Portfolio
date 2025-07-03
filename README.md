@@ -1,4 +1,7 @@
-# FlowSense
+# Team FlowSense
+H.V. Alalim <br>
+D.C.M. Amihan <br>
+J.B. Bermudez
 
 <p align="center">
   <img src="https://github.com/YanJi13/YanJi-School-Portfolio/blob/main/FlowSense%20Logo.png" alt="Description" width="400"/>
